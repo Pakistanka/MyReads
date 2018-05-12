@@ -27,10 +27,6 @@ class ListBooks extends Component {
 
   }
 
-
-
-
-
   render() {
       console.log(this.props.books)
 
