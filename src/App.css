@@ -3,6 +3,7 @@ html, body, .root {
 }
 body {
   line-height: 1.5;
+  background: #FFFACD;
 }
 body, .app {
   background: white;
